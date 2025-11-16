@@ -7,20 +7,44 @@
       "thumbnail": "https://img.youtube.com/vi/j5JhZ7xJGkM/maxresdefault.jpg",
       "date": "2025-10-13"
     },
-    {
-      "title": "STR.Peyton 1st Day Highlights",
-      "description": "See our highlighted Strive content creator of the month Peyton's newest video!",
-      "url": "https://youtu.be/4jIIPr9g3ws?si=TdjOyUZx9e5O2T2k",
-      "thumbnail": "https://img.youtube.com/vi/4jIIPr9g3ws/maxresdefault.jpg",
-      "date": "2025-10-16"
-    }
   ],
   "streams": [
     {
       "title": "Ratz Coming Back Stream?!",
-      "description": "Strive's Resident PR Nightmare",
+      "description": "Strive's Streamer in Pain",
       "channel": "NotRatz",
       "url": "https://www.twitch.tv/NotRatz"
+    },
+    {
+      "title": "STR Skynyx's Superiority",
+      "description": "The entertainment of everything you wish!",
+      "channel": "Skynyx",
+      "url": "https://www.twitch.tv/skynyx"
+    },
+    {
+      "title": "STR Peyton's Ragefest",
+      "description": "High-energy competitive gameplay!",
+      "channel": "p3ytonpvp",
+      "url": "https://www.twitch.tv/p3ytonpvp"
+    },
+    {
+      "title": "STR Joykill's Controller Madness",
+      "description": "Future (controller) jcup player btw",
+      "channel": "joykilltv",
+      "url": "https://www.twitch.tv/joykilltv"
+    },
+    {
+      "title": "STR German Suprise, Rowan",
+      "description": "Baguette",
+      "channel": "ItzzRowan",
+      "url": "https://www.twitch.tv/ItzzRowan"
+    },
+    
+    {
+      "title": "Sebguy's Casting?!",
+      "description": "Pro commentary and tournament coverage!",
+      "channel": "sebguy32",
+      "url": "https://www.twitch.tv/sebguy32"
     },
     {
       "title": "Pure Numzinema - Numza's Phat Wins",
@@ -33,37 +57,14 @@
       "description": "The Old-School Best Friend who I miss!",
       "channel": "ExcellentErah",
       "url": "https://www.twitch.tv/ExcellentErah"
-    },
-    {
-      "title": "STR Skynyx's Superiority",
-      "description": "The entertainment of everything you wish!",
-      "channel": "SkyNyx",
-      "url": "https://www.twitch.tv/skynyx"
-    },
-    {
-      "title": "STR Peyton's Ragefest",
-      "description": "High-energy competitive gameplay!",
-      "channel": "p3ytonpvp",
-      "url": "https://www.twitch.tv/p3ytonpvp"
-    },
-    {
-      "title": "Sebguy's Casting?!",
-      "description": "Pro commentary and tournament coverage!",
-      "channel": "sebguy32",
-      "url": "https://www.twitch.tv/sebguy32"
-    },
+    },    
     {
       "title": "Learn from the best! Hypernova Has Tricks",
       "description": "Master advanced techniques and combos!",
       "channel": "HyperNova",
       "url": "https://www.twitch.tv/HyperNova"
     },
-    {
-      "title": "STR Joykill's Controller Madness",
-      "description": "Future (controller) jcup player btw",
-      "channel": "joykilltv",
-      "url": "https://www.twitch.tv/joykilltv"
-    },
+
     {
       "title": "C7SPER Terrorizing NA's Finest",
       "description": "Top tier competitive gameplay!",
