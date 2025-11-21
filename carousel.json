@@ -1,116 +1,13 @@
 {
-  "videos": [
-    {
-      "title": "NARAKA Ultimate Combat Guide 2025",
-      "description": "Master advanced techniques, grappling hooks, and weapon combos in this comprehensive guide.",
-      "url": "https://youtu.be/j5JhZ7xJGkM?si=rIyNzCpD9pWWb-2L",
-      "thumbnail": "https://img.youtube.com/vi/j5JhZ7xJGkM/maxresdefault.jpg",
-      "date": "2025-10-13"
-    }
-  ],
-  "streams": [
-    {
-      "title": "Ratz Coming Back Stream?!",
-      "description": "Strive's Streamer in Pain",
-      "channel": "NotRatz",
-      "url": "https://www.twitch.tv/NotRatz"
-    },
-    {
-      "title": "STR Skynyx's Superiority",
-      "description": "The entertainment of everything you wish!",
-      "channel": "Skynyx",
-      "url": "https://www.twitch.tv/skynyx"
-    },
-    {
-      "title": "STR Peyton's Ragefest",
-      "description": "High-energy competitive gameplay!",
-      "channel": "p3ytonpvp",
-      "url": "https://www.twitch.tv/p3ytonpvp"
-    },
-    {
-      "title": "STR Joykill's Controller Madness",
-      "description": "Future (controller) jcup player btw",
-      "channel": "joykilltv",
-      "url": "https://www.twitch.tv/joykilltv"
-    },
-    {
-      "title": "STR German Suprise, Rowan",
-      "description": "Baguette",
-      "channel": "ItzzRowan",
-      "url": "https://www.twitch.tv/ItzzRowan"
-    },
-    {
-      "title": "Sebguy's Casting?!",
-      "description": "Pro commentary and tournament coverage!",
-      "channel": "sebguy32",
-      "url": "https://www.twitch.tv/sebguy32"
-    },
-    {
-      "title": "Pure Numzinema - Numza's Phat Wins",
-      "description": "Watch Numza dominate with epic gameplay!",
-      "channel": "Numzzza",
-      "url": "https://www.twitch.tv/Numzzza"
-    },
-    {
-      "title": "Let's go ExcellentErah!",
-      "description": "The Old-School Best Friend who I miss!",
-      "channel": "ExcellentErah",
-      "url": "https://www.twitch.tv/ExcellentErah"
-    },    
-    {
-      "title": "Learn from the best! Hypernova Has Tricks",
-      "description": "Master advanced techniques and combos!",
-      "channel": "HyperNova",
-      "url": "https://www.twitch.tv/HyperNova"
-    },
-    {
-      "title": "C7SPER Terrorizing NA's Finest",
-      "description": "Top tier competitive gameplay!",
-      "channel": "c7sper",
-      "url": "https://www.twitch.tv/c7sper"
-    },
-    {
-      "title": "Making full use of jiggle physics, gooning to Lannie",
-      "description": "No-Mic Low-Mental Medium-FPS High-Ping Full-Kebab",
-      "channel": "snakeyy13",
-      "url": "https://www.twitch.tv/snakeyy13"
-    },
-    {
-      "title": "BinWaggen's Catboy Dojo Sesh",
-      "description": "Baby boy Bin plays Nawaka",
-      "channel": "binlaggen",
-      "url": "https://www.twitch.tv/binlaggen"
-    },
-    {
-      "title": "NarakaBladepoint Official's Stream",
-      "description": "Official NARAKA content and updates!",
-      "channel": "NarakaBladepoint",
-      "url": "https://www.twitch.tv/NarakaBladepoint"
-    }
-  ],
-  "news": [
-    {
-      "title": "NotNaraka Launcher Updates!",
-      "description": "New carousel image support! Display fan art, announcements, and screenshots directly in the launcher.",
-      "url": "https://github.com/NotRatz/NotNaraka-Launcher/releases/latest",
-      "date": "2025-10-21"
-    },
-    {
-      "title": "NARAKA: BLADEPOINT Update - Nov. 6th, 2025",
-      "description": "Discover the newest addition to the NARAKA roster with unique abilities and weapon mastery.",
-      "url": "https://www.narakathegame.com/news/update/20251029/33459_1267737.html",
-      "date": "2025-10-23"
-    }
-  ],
   "images": [
     {
-      "title": "Do you want to be featured?!",
-      "description": "Click the Image Below!",
-      "imageUrl": "https://i.imgur.com/a4avU43.jpeg",
-      "url": "https://discordapp.com/users/313455919042396160",
-      "date": "2025-10-21"
+      "title": "Important! Please click here!",
+      "description": "Application Update is Required!!",
+      "imageUrl": "https://i.imgur.com/hKfCiCz.jpeg",
+      "url": "https://github.com/NotRatz/NotNaraka-Launcher/releases/latest",
+      "date": "2025-11-20"
     }
   ],
-  "lastUpdated": "2025-10-21",
-  "version": "1.3"
+  "lastUpdated": "2025-11-20",
+  "version": "1.4"
 }
