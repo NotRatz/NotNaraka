@@ -3,6 +3,7 @@
     "module_name.dll",
     "another_module.exe",
     "full\\path\\to\\safe.dll",
-    "rtsshooks.dll"
+    "rtsshooks.dll",
+    "winrtbroker"
   ]
 }
