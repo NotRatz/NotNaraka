@@ -4,6 +4,8 @@
 
 **Client Swapping | Performance Tweaks | Twitch Drops | Custom Overlay**
 
+[![VirusTotal](https://img.shields.io/badge/VirusTotal-0%2F71-brightgreen)](https://www.virustotal.com/gui/file/ee208c73fbaff1e606463a339cb4870a49c26ab07e89e63cc512a0c758ee9674/detection)
+
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE.txt)
 [![Release](https://img.shields.io/github/v/release/NotRatz/NotNaraka-Launcher)](https://github.com/NotRatz/NotNaraka-Launcher/releases)
 [![Downloads](https://img.shields.io/github/downloads/NotRatz/NotNaraka-Launcher/total)](https://github.com/NotRatz/NotNaraka-Launcher/releases)
